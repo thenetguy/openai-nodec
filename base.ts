@@ -20,7 +20,7 @@ import type { AxiosPromise, AxiosInstance, AxiosRequestConfig } from 'axios';
 import globalAxios from 'axios';
 
 //export const BASE_PATH = "https://api.openai.com/v1".replace(/\/+$/, "");
-export const BASE_PATH = "https://chimeragpt.adventblocks.cc/v1".replace(/\/+$/, "");
+export const BASE_PATH = "https://api.fervorai.com/v1".replace(/\/+$/, "");
 
 /**
  *
